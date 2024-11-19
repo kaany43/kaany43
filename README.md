@@ -4,8 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaanyorgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaanyorgun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kaanyorgun2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaanyorgun2004" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arwmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arwmm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
